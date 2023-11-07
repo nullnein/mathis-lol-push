@@ -1,0 +1,203 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>mathis</title>
+  <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
+  <updated>2023-11-07T04:08:54+01:00</updated>
+  <author>
+    <name>Mathis Richtmann</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Mathis Richtmann </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>who is mathis?</title>
+    <link href="/posts/whoismathis/" rel="alternate" type="text/html" title="who is mathis?" />
+    <published>2023-11-07T00:00:00+01:00</published>
+  
+    <updated>2023-11-07T00:00:00+01:00</updated>
+  
+    <id>/posts/whoismathis/</id>
+    <content src="/posts/whoismathis/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>From bazooka to backstop - the political economy of standing swap facilities</title>
+    <link href="/posts/from-bazooka-to-backstop/" rel="alternate" type="text/html" title="From bazooka to backstop - the political economy of standing swap facilities" />
+    <published>2023-07-09T00:00:00+02:00</published>
+  
+    <updated>2023-07-09T00:00:00+02:00</updated>
+  
+    <id>/posts/from-bazooka-to-backstop/</id>
+    <content src="/posts/from-bazooka-to-backstop/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="academia" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Lea Steininger and I published in Cambridge Journal of Economics. The paper explores decision making of central bankers.
+
+Bureaucratic familiarity
+
+Managing money isn’t an easy job. When money is tight, central bankers usually step in. So in a crisis, they check out what they have at their disposal to increase liquidity, that is money in the system. They ask: What’s worked before? They tinker w...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Young journalists should be reporters, else AI will kill their jobs</title>
+    <link href="/posts/ai-journalism/" rel="alternate" type="text/html" title="Young journalists should be reporters, else AI will kill their jobs" />
+    <published>2023-07-03T00:00:00+02:00</published>
+  
+    <updated>2023-07-03T00:00:00+02:00</updated>
+  
+    <id>/posts/ai-journalism/</id>
+    <content src="/posts/ai-journalism/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="mikrophaenomene" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      It is a strange time to begin a career in journalism: Vice - the media company I grew up with - just went out of business, layoffs have been gripping the industry for years and now AI is further set to decimate my career.
+
+I have trained as a journalist with German broadcaster Deutsche Welle for the past 17 months, switching over from a career as an economist. Will AI kill my career before I ev...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Peach Cobbler Stake Taco</title>
+    <link href="/posts/peach-cobbler-steak-taco/" rel="alternate" type="text/html" title="Peach Cobbler Stake Taco" />
+    <published>2023-06-18T00:00:00+02:00</published>
+  
+    <updated>2023-06-18T00:00:00+02:00</updated>
+  
+    <id>/posts/peach-cobbler-steak-taco/</id>
+    <content src="/posts/peach-cobbler-steak-taco/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="mikrophaenomene" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Die Feinheiten einer Gesellschaft verbergen sich ja meist in dem Unausgesprochenen, in den Zwischenräumen, die für die Gesellschaft so allgegenwärtig sind, dass sie für Mitglieder dieser Gesellschaft kaum artikulierbar sind.
+
+Wochenende, 30 Grad, Sonne in Washington DC und am Montag ist Feiertag: Juneteenth National Independence Day, seit zwei Jahren bundesweit durch Präsident Biden festgelegt ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW - Video - Louisiana Insurance Crisis</title>
+    <link href="/posts/Louisiana-Insurance-Crisis/" rel="alternate" type="text/html" title="DW - Video - Louisiana Insurance Crisis" />
+    <published>2023-06-13T00:00:00+02:00</published>
+  
+    <updated>2023-06-13T00:00:00+02:00</updated>
+  
+    <id>/posts/Louisiana-Insurance-Crisis/</id>
+    <content src="/posts/Louisiana-Insurance-Crisis/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Natural disasters are sending insurance rates skyrocketing in many US coastal areas. Follow me to the south of Louisiana where the ongoing insurance crisis may force people to leave home.
+
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
