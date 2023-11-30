@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2023-11-07T04:08:54+01:00</updated>
+  <updated>2023-11-30T18:58:57+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -53,8 +53,52 @@
 
   
   <entry>
-    <title>From bazooka to backstop - the political economy of standing swap facilities</title>
-    <link href="/posts/from-bazooka-to-backstop/" rel="alternate" type="text/html" title="From bazooka to backstop - the political economy of standing swap facilities" />
+    <title>DW --  Instagram - Sri Lanka's debt between IMF and China</title>
+    <link href="/posts/Sri-Lanka-Debt/" rel="alternate" type="text/html" title="DW --  Instagram - Sri Lanka&amp;apos;s debt between IMF and China" />
+    <published>2023-10-11T00:00:00+02:00</published>
+  
+    <updated>2023-10-11T00:00:00+02:00</updated>
+  
+    <id>/posts/Sri-Lanka-Debt/</id>
+    <content src="/posts/Sri-Lanka-Debt/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      News-Reel for dw-instagram: Debt diplomacy of the IMF and China compared with a case study of Sri Lanka. On-camera studio work.
+
+        View this post on Instagram            A post shared by DW News (@dwnews)
+
+
+Hintergrund
+
+
+  Auslieferung: English (Social)
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Paper -- From bazooka to backstop - the political economy of standing swap facilities</title>
+    <link href="/posts/from-bazooka-to-backstop/" rel="alternate" type="text/html" title="Paper -- From bazooka to backstop - the political economy of standing swap facilities" />
     <published>2023-07-09T00:00:00+02:00</published>
   
     <updated>2023-07-09T00:00:00+02:00</updated>
@@ -156,43 +200,6 @@ I have trained as a journalist with German broadcaster Deutsche Welle for the pa
       Die Feinheiten einer Gesellschaft verbergen sich ja meist in dem Unausgesprochenen, in den Zwischenräumen, die für die Gesellschaft so allgegenwärtig sind, dass sie für Mitglieder dieser Gesellschaft kaum artikulierbar sind.
 
 Wochenende, 30 Grad, Sonne in Washington DC und am Montag ist Feiertag: Juneteenth National Independence Day, seit zwei Jahren bundesweit durch Präsident Biden festgelegt ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW - Video - Louisiana Insurance Crisis</title>
-    <link href="/posts/Louisiana-Insurance-Crisis/" rel="alternate" type="text/html" title="DW - Video - Louisiana Insurance Crisis" />
-    <published>2023-06-13T00:00:00+02:00</published>
-  
-    <updated>2023-06-13T00:00:00+02:00</updated>
-  
-    <id>/posts/Louisiana-Insurance-Crisis/</id>
-    <content src="/posts/Louisiana-Insurance-Crisis/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Natural disasters are sending insurance rates skyrocketing in many US coastal areas. Follow me to the south of Louisiana where the ongoing insurance crisis may force people to leave home.
-
-
-
     </summary>
   
 
