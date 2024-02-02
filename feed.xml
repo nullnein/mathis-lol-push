@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2023-11-30T18:58:57+01:00</updated>
+  <updated>2024-02-02T18:23:08+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -13,10 +13,50 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 Mathis Richtmann </rights>
+  <rights> © 2024 Mathis Richtmann </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Can Germany switch from coal to hydrogen? -- DW</title>
+    <link href="/posts/germany-coal-to-hydrogen/" rel="alternate" type="text/html" title="Can Germany switch from coal to hydrogen? -- DW" />
+    <published>2024-02-02T00:00:00+01:00</published>
+  
+    <updated>2024-02-02T00:00:00+01:00</updated>
+  
+    <id>/posts/germany-coal-to-hydrogen/</id>
+    <content src="/posts/germany-coal-to-hydrogen/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Phasing out fossil fuels will change economies around the world. The Ruhr area in Germany began exiting coal production in the 1960s and is still transitioning its industry. Now, the region bets big on hydrogen as a new power source. But is it an example for other regions that aim to phase out coal?
+
+What?
+
+
+  10:05 miunte Youtube Explainer
+  reporting, on-camera, scripting, GoogleEarth Studio ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -164,42 +204,6 @@ Managing money isn’t an easy job. When money is tight, central bankers usually
       It is a strange time to begin a career in journalism: Vice - the media company I grew up with - just went out of business, layoffs have been gripping the industry for years and now AI is further set to decimate my career.
 
 I have trained as a journalist with German broadcaster Deutsche Welle for the past 17 months, switching over from a career as an economist. Will AI kill my career before I ev...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Peach Cobbler Stake Taco</title>
-    <link href="/posts/peach-cobbler-steak-taco/" rel="alternate" type="text/html" title="Peach Cobbler Stake Taco" />
-    <published>2023-06-18T00:00:00+02:00</published>
-  
-    <updated>2023-06-18T00:00:00+02:00</updated>
-  
-    <id>/posts/peach-cobbler-steak-taco/</id>
-    <content src="/posts/peach-cobbler-steak-taco/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="mikrophaenomene" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Die Feinheiten einer Gesellschaft verbergen sich ja meist in dem Unausgesprochenen, in den Zwischenräumen, die für die Gesellschaft so allgegenwärtig sind, dass sie für Mitglieder dieser Gesellschaft kaum artikulierbar sind.
-
-Wochenende, 30 Grad, Sonne in Washington DC und am Montag ist Feiertag: Juneteenth National Independence Day, seit zwei Jahren bundesweit durch Präsident Biden festgelegt ...
     </summary>
   
 
