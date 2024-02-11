@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2024-02-02T18:23:08+01:00</updated>
+  <updated>2024-02-11T18:57:32+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -20,8 +20,87 @@
 
   
   <entry>
-    <title>Can Germany switch from coal to hydrogen? -- DW</title>
-    <link href="/posts/germany-coal-to-hydrogen/" rel="alternate" type="text/html" title="Can Germany switch from coal to hydrogen? -- DW" />
+    <title>Igls</title>
+    <link href="/posts/igls/" rel="alternate" type="text/html" title="Igls" />
+    <published>2024-02-11T00:00:00+01:00</published>
+  
+    <updated>2024-02-11T00:00:00+01:00</updated>
+  
+    <id>/posts/igls/</id>
+    <content src="/posts/igls/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="photography" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Die Berge. Anfang Februar 2024 liegt kaum Schnee. Nicht in Igls, auf den grünen saftigen Wiesen, nicht auf dem Weg zum Ski-Gebiet und auch am Patscherkofel am letzten Tag so wenig, dass die Gondel auch nicht mehr zum Gipfel läuft.
+
+
+Patscherkofelbahn, Februar 2024
+
+Dennoch, die Hütten sind gefüllt, an einem Freitag bekommen wir erst nach sieben Absagen einen Tisch für zwei beim Italiener. Dazwi...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Why financing Germany's hydrogen core network could be a blueprint for public investment</title>
+    <link href="/posts/Amortisationskonto-blueprint-for-public-investment/" rel="alternate" type="text/html" title="Why financing Germany&amp;apos;s hydrogen core network could be a blueprint for public investment" />
+    <published>2024-02-11T00:00:00+01:00</published>
+  
+    <updated>2024-02-11T00:00:00+01:00</updated>
+  
+    <id>/posts/Amortisationskonto-blueprint-for-public-investment/</id>
+    <content src="/posts/Amortisationskonto-blueprint-for-public-investment/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Germany’s push towards hydrogen comes at a crucial phase of struggling industry in the country. The government is still trying to agree on how to finance a core aspect of this transition. But once through, it could be a blueprint for fiscal, industrial policy in Germany.
+
+Watch the Video-Version
+
+An industry struggling to change
+
+Germany’s Ruhrgebiet region is set to profit massively from its i...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW -- Can Germany switch from coal to hydrogen?</title>
+    <link href="/posts/germany-coal-to-hydrogen/" rel="alternate" type="text/html" title="DW -- Can Germany switch from coal to hydrogen?" />
     <published>2024-02-02T00:00:00+01:00</published>
   
     <updated>2024-02-02T00:00:00+01:00</updated>
@@ -46,13 +125,14 @@
 
 
 
-      Phasing out fossil fuels will change economies around the world. The Ruhr area in Germany began exiting coal production in the 1960s and is still transitioning its industry. Now, the region bets big on hydrogen as a new power source. But is it an example for other regions that aim to phase out coal?
+      Germany’s push towards hydrogen comes at a crucial phase of struggling industry in the country. The government is still trying to agree on how to finance a core aspect of this transition. But once through, it could be a blueprint for fiscal, industrial policy in Germany.
 
 What?
 
 
-  10:05 miunte Youtube Explainer
-  reporting, on-camera, scripting, GoogleEarth Studio ...
+  10:05 Miunte Youtube Explainer
+  1.600 word analysis on this blog
+  reporting, on-camera, scripting, GoogleEarth S...
     </summary>
   
 
@@ -130,80 +210,6 @@ Hintergrund
   Auslieferung: English (Social)
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Paper -- From bazooka to backstop - the political economy of standing swap facilities</title>
-    <link href="/posts/from-bazooka-to-backstop/" rel="alternate" type="text/html" title="Paper -- From bazooka to backstop - the political economy of standing swap facilities" />
-    <published>2023-07-09T00:00:00+02:00</published>
-  
-    <updated>2023-07-09T00:00:00+02:00</updated>
-  
-    <id>/posts/from-bazooka-to-backstop/</id>
-    <content src="/posts/from-bazooka-to-backstop/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="academia" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Lea Steininger and I published in Cambridge Journal of Economics. The paper explores decision making of central bankers.
-
-Bureaucratic familiarity
-
-Managing money isn’t an easy job. When money is tight, central bankers usually step in. So in a crisis, they check out what they have at their disposal to increase liquidity, that is money in the system. They ask: What’s worked before? They tinker w...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Young journalists should be reporters, else AI will kill their jobs</title>
-    <link href="/posts/ai-journalism/" rel="alternate" type="text/html" title="Young journalists should be reporters, else AI will kill their jobs" />
-    <published>2023-07-03T00:00:00+02:00</published>
-  
-    <updated>2023-07-03T00:00:00+02:00</updated>
-  
-    <id>/posts/ai-journalism/</id>
-    <content src="/posts/ai-journalism/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="mikrophaenomene" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      It is a strange time to begin a career in journalism: Vice - the media company I grew up with - just went out of business, layoffs have been gripping the industry for years and now AI is further set to decimate my career.
-
-I have trained as a journalist with German broadcaster Deutsche Welle for the past 17 months, switching over from a career as an economist. Will AI kill my career before I ev...
     </summary>
   
 
