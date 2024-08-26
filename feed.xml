@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2024-05-05T03:39:55+02:00</updated>
+  <updated>2024-08-26T21:25:15+02:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>DW -- The ammortization account - New German fiscal engineering for infrastructure spending?</title>
-    <link href="/posts/Germany-financing-blueprint-hydrogen/" rel="alternate" type="text/html" title="DW -- The ammortization account - New German fiscal engineering for infrastructure spending?" />
-    <published>2024-04-30T00:00:00+02:00</published>
+    <title>DW -- Shoplifting on the rise in Germany</title>
+    <link href="/posts/shoplifting/" rel="alternate" type="text/html" title="DW -- Shoplifting on the rise in Germany" />
+    <published>2024-07-16T00:00:00+02:00</published>
   
-    <updated>2024-04-30T00:00:00+02:00</updated>
+    <updated>2024-07-16T00:00:00+02:00</updated>
   
-    <id>/posts/Germany-financing-blueprint-hydrogen/</id>
-    <content src="/posts/Germany-financing-blueprint-hydrogen/" />
+    <id>/posts/shoplifting/</id>
+    <content src="/posts/shoplifting/" />
     <author>
       <name>mathis</name>
     </author>
@@ -46,11 +46,12 @@
 
 
 
-      Germany’s obsession with avoiding fresh debt has led to doubts about its energy transition. Now, a novel mechanism for its hydrogen strategy could become a blueprint for future infrastructure spending.
+      Some stories are easy but telling them is hard. Like shoplifting – numbers are up, experts and academic literature points to numbers rising usually when inflation is up. But how to tell that story visually? It took me four full business days to find a shopowner willing to talk on camera.
 
-Link to full piece at DW
+        View this post on Instagram            A post shared by DW News (@dwnews)
 
-This is a story I came across while reporting on Germany’s Ruhr area switching from coal to hydrogen. To make the move, the country needs a set of pipelines to transpor...
+
+
     </summary>
   
 
@@ -58,14 +59,14 @@ This is a story I came across while reporting on Germany’s Ruhr area switching
 
   
   <entry>
-    <title>DW -- Solving Germany’s labor shortage</title>
-    <link href="/posts/workeer-ger-labor-shortage/" rel="alternate" type="text/html" title="DW -- Solving Germany’s labor shortage" />
-    <published>2024-03-11T00:00:00+01:00</published>
+    <title>DW -- Why Berlin's housing market is broken</title>
+    <link href="/posts/berlin-housing/" rel="alternate" type="text/html" title="DW -- Why Berlin&amp;apos;s housing market is broken" />
+    <published>2024-07-10T00:00:00+02:00</published>
   
-    <updated>2024-03-11T00:00:00+01:00</updated>
+    <updated>2024-07-10T00:00:00+02:00</updated>
   
-    <id>/posts/workeer-ger-labor-shortage/</id>
-    <content src="/posts/workeer-ger-labor-shortage/" />
+    <id>/posts/berlin-housing/</id>
+    <content src="/posts/berlin-housing/" />
     <author>
       <name>mathis</name>
     </author>
@@ -84,15 +85,11 @@ This is a story I came across while reporting on Germany’s Ruhr area switching
 
 
 
-      Could international talent help solve Germany’s skilled labor shortage? The online job board Workeer is convinced it could. Simon from Nigeria and Liza from Ukraine have already found a job through the platform.
+      With finally new census data out, I took a deep dive into the numbers to confirm what experts have been saying about Berlin’s housing market for years: A couple of landlords own most of the city and its a renters’ city, giving landlords a lot of sway.
 
-What?
+I looked at the numbers and filmed at a renters’ demonstration – pictures that were used in several news pieces as well.
 
-
-  05:09 Miunte Video Feature
-  reporting, camera, scripting
-
-
+        View this post...
     </summary>
   
 
@@ -100,53 +97,14 @@ What?
 
   
   <entry>
-    <title>Igls</title>
-    <link href="/posts/igls/" rel="alternate" type="text/html" title="Igls" />
-    <published>2024-02-11T00:00:00+01:00</published>
+    <title>DW -- Is the ECB going to make Döner Kebab cheaper?</title>
+    <link href="/posts/ecb-doener-kebab/" rel="alternate" type="text/html" title="DW -- Is the ECB going to make Döner Kebab cheaper?" />
+    <published>2024-06-07T00:00:00+02:00</published>
   
-    <updated>2024-02-11T00:00:00+01:00</updated>
+    <updated>2024-06-07T00:00:00+02:00</updated>
   
-    <id>/posts/igls/</id>
-    <content src="/posts/igls/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="photography" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Die Berge. Anfang Februar 2024 liegt kaum Schnee. Nicht in Igls, auf den grünen saftigen Wiesen, nicht auf dem Weg zum Ski-Gebiet und auch am Patscherkofel am letzten Tag so wenig, dass die Gondel auch nicht mehr zum Gipfel läuft.
-
-
-Patscherkofelbahn, Februar 2024
-
-Dennoch, die Hütten sind gefüllt, an einem Freitag bekommen wir erst nach sieben Absagen einen Tisch für zwei beim Italiener. Dazwi...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Why financing Germany's hydrogen core network could be a blueprint for public investment</title>
-    <link href="/posts/Amortisationskonto-blueprint-for-public-investment/" rel="alternate" type="text/html" title="Why financing Germany&amp;apos;s hydrogen core network could be a blueprint for public investment" />
-    <published>2024-02-11T00:00:00+01:00</published>
-  
-    <updated>2024-02-11T00:00:00+01:00</updated>
-  
-    <id>/posts/Amortisationskonto-blueprint-for-public-investment/</id>
-    <content src="/posts/Amortisationskonto-blueprint-for-public-investment/" />
+    <id>/posts/ecb-doener-kebab/</id>
+    <content src="/posts/ecb-doener-kebab/" />
     <author>
       <name>mathis</name>
     </author>
@@ -165,13 +123,7 @@ Dennoch, die Hütten sind gefüllt, an einem Freitag bekommen wir erst nach sieb
 
 
 
-      Germany’s push towards hydrogen comes at a crucial phase of struggling industry in the country. The government is still trying to agree on how to finance a core aspect of this transition. But once through, it could be a blueprint for fiscal, industrial policy in Germany.
-
-Watch the Video-Version
-
-An industry struggling to change
-
-Germany’s Ruhrgebiet region is set to profit massively from its i...
+      On June 6th, the European Central Bank for the first time in years lowered interest rates – signalling the worst of inflation is over. But how to translate this important but technical message to a general audience on instagram? We went with the price for Döner Kebab that had been in the press just weeks earlier to explain why the central bank won’t make things cheaper again. Importantly, we we...
     </summary>
   
 
@@ -179,14 +131,14 @@ Germany’s Ruhrgebiet region is set to profit massively from its i...
 
   
   <entry>
-    <title>DW -- Can Germany switch from coal to hydrogen?</title>
-    <link href="/posts/germany-coal-to-hydrogen-2/" rel="alternate" type="text/html" title="DW -- Can Germany switch from coal to hydrogen?" />
-    <published>2024-02-02T00:00:00+01:00</published>
+    <title>DW -- The devastating impact of rare earths mining in Maynmar</title>
+    <link href="/posts/myanmar-rare-earth/" rel="alternate" type="text/html" title="DW -- The devastating impact of rare earths mining in Maynmar" />
+    <published>2024-05-27T00:00:00+02:00</published>
   
-    <updated>2024-02-02T00:00:00+01:00</updated>
+    <updated>2024-05-27T00:00:00+02:00</updated>
   
-    <id>/posts/germany-coal-to-hydrogen-2/</id>
-    <content src="/posts/germany-coal-to-hydrogen-2/" />
+    <id>/posts/myanmar-rare-earth/</id>
+    <content src="/posts/myanmar-rare-earth/" />
     <author>
       <name>mathis</name>
     </author>
@@ -205,14 +157,50 @@ Germany’s Ruhrgebiet region is set to profit massively from its i...
 
 
 
-      Germany’s push towards hydrogen comes at a crucial phase of struggling industry in the country. The government is still trying to agree on how to finance a core aspect of this transition. But once through, it could be a blueprint for fiscal, industrial policy in Germany.
+      With an early copy to the NGO Global Witness’ report on rare earths mining in Myanmar we ran a story for our instagram channels. Timing was helpful to get the story out just after the release of the Global Witness report.
 
-What?
+Visuals remained challenging since there are very little agency pictures coming out of the country’s north.
+
+        View this post on Instagram            A post shared by D...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW -- Are 'blood minerals' trafficked out of the DR Congo?</title>
+    <link href="/posts/drc-minerals/" rel="alternate" type="text/html" title="DW -- Are &amp;apos;blood minerals&amp;apos; trafficked out of the DR Congo?" />
+    <published>2024-05-08T00:00:00+02:00</published>
+  
+    <updated>2024-05-08T00:00:00+02:00</updated>
+  
+    <id>/posts/drc-minerals/</id>
+    <content src="/posts/drc-minerals/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
 
 
-  10:05 Miunte Youtube Explainer
-  1.600 word analysis on this blog
-  reporting, on-camera, scripting, GoogleEarth S...
+
+
+
+      Instagram reel on trafficking of minerals out of the DR  Congo for use in electronics. Interview with Siddarth Kara and collaboration with our french for africa team on the Félix Tschisikedi.
+
+        View this post on Instagram            A post shared by DW News (@dwnews)
+
+
+
     </summary>
   
 
