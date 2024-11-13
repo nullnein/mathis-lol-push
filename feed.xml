@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2024-11-04T18:50:27+01:00</updated>
+  <updated>2024-11-13T23:30:13+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>DW -- Why Germany's debt aversion split the government</title>
+    <link href="/posts/germany-debt-aversion/" rel="alternate" type="text/html" title="DW -- Why Germany&amp;apos;s debt aversion split the government" />
+    <published>2024-10-10T00:00:00+02:00</published>
+  
+    <updated>2024-10-10T00:00:00+02:00</updated>
+  
+    <id>/posts/germany-debt-aversion/</id>
+    <content src="/posts/germany-debt-aversion/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Production of a breaking news story, to explain to our international audience how the economic discourse behind the Schuldenbremse, that is the “debt break” – a unique feature of German fiscal policy – works.
+
+The piece got more than 370000 views on Tiktok and about 100000 views on Instagram and was a one-day turnaround.
+
+        View this post on Instagram            A post shared by DW News (...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -170,44 +208,6 @@ https://youtu.be/hAAzC5CtzRA?feature=shared
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- Why Berlin's housing market is broken</title>
-    <link href="/posts/berlin-housing/" rel="alternate" type="text/html" title="DW -- Why Berlin&amp;apos;s housing market is broken" />
-    <published>2024-07-10T00:00:00+02:00</published>
-  
-    <updated>2024-07-10T00:00:00+02:00</updated>
-  
-    <id>/posts/berlin-housing/</id>
-    <content src="/posts/berlin-housing/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      With finally new census data out, I took a deep dive into the numbers to confirm what experts have been saying about Berlin’s housing market for years: A couple of landlords own most of the city and its a renters’ city, giving landlords a lot of sway.
-
-I looked at the numbers and filmed at a renters’ demonstration – pictures that were used in several news pieces as well.
-
-        View this post...
     </summary>
   
 
