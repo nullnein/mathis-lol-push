@@ -38,8 +38,8 @@
 <meta property="og:title" content="Configuration this site" />
 <meta name="author" content="mathis" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Burning" />
-<meta property="og:description" content="Burning" />
+<meta name="description" content="I’ve been nerding out about web development since I’m like 13 or 14 years old. While my first webpages were html-only, at some point designing them in Photoshop and then ‘slicing’ them up into pictures to then hosting them via tables on html became a big deal. All of this obviously was before people accessed websites on their phones." />
+<meta property="og:description" content="I’ve been nerding out about web development since I’m like 13 or 14 years old. While my first webpages were html-only, at some point designing them in Photoshop and then ‘slicing’ them up into pictures to then hosting them via tables on html became a big deal. All of this obviously was before people accessed websites on their phones." />
 <link rel="canonical" href="/posts/configuration-this-site/" />
 <meta property="og:url" content="/posts/configuration-this-site/" />
 <meta property="og:site_name" content="mathis" />
@@ -50,7 +50,7 @@
 <meta name="twitter:site" content="@nullnein" />
 <meta name="twitter:creator" content="@mathis" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2024-08-26T21:25:49+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Burning","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"/posts/configuration-this-site/"},"url":"/posts/configuration-this-site/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2024-08-26T21:25:49+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"I’ve been nerding out about web development since I’m like 13 or 14 years old. While my first webpages were html-only, at some point designing them in Photoshop and then ‘slicing’ them up into pictures to then hosting them via tables on html became a big deal. All of this obviously was before people accessed websites on their phones.","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"/posts/configuration-this-site/"},"url":"/posts/configuration-this-site/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -607,39 +607,6 @@
 
       
     
-      
-
-      
-      
-
-      
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-      
-      
-
-      
-    
 
     
   
@@ -655,6 +622,61 @@
       
         
         
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
       
 
       
@@ -817,9 +839,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="2444 words"
+  title="2757 words"
 >
-  <em>13 min</em> read</span>
+  <em>15 min</em> read</span>
 
       </div>
       <!-- .d-flex -->
@@ -828,13 +850,55 @@
   </header>
 
   <div class="content">
-    <h2 id="burning"><span class="me-2">Burning</span><a href="#burning" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+    <p>I’ve been nerding out about web development since I’m like 13 or 14 years old. While my first webpages were html-only, at some point designing them in Photoshop and then ‘slicing’ them up into pictures to then hosting them via tables on html became a big deal. All of this obviously was before people accessed websites on their phones.</p>
 
-<ul>
-  <li></li>
-</ul>
+<p>Since I’m obsessed with getting stuff as cheap as possible or best case for free, I’ve been tinkering with web development that gets me there as well.</p>
 
-<h2 id="workflow"><span class="me-2">Workflow</span><a href="#workflow" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<p>Which means, running this website comes at <em>pretty much</em> no cost to me and is – as far as I can tell also the only way to run a website as complex as this one for free.</p>
+
+<p>I pay for the Domain and yes, a <strong>.lol</strong>-Domain is pricey but worth the joke. But that’s the only cost attached to this site.</p>
+
+<p>That comes with some <del>drawbacks</del> quirks on usability. Upfront: I run this site with the comand-line CMS <strong>Jekyll</strong>, it’s hosted on <strong>github</strong> (free storage) and then pushed to <strong>Render.com</strong>, which hosts plain-text file websites for free.</p>
+
+<p>The reason for pushing from Github to Render is, it gives me flexibility on plugins and themes which Github’s Jekyll integration does not.</p>
+
+<h3 id="how-i-publish"><span class="me-2">How I publish</span><a href="#how-i-publish" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>As a software stack, I use a combination of Sublime Text, iA Writer, the Terminal and obviously Git to do this stuff. I complement with <a href="https://espanso.org/">espanso</a> which I use to provide a boilerplate <em>new post</em>-kind-of-thing: Typing <code class="language-plaintext highlighter-rouge">:nea</code><sup id="fnref:on-pull-request" role="doc-noteref"><a href="#fn:on-pull-request" class="footnote" rel="footnote">1</a></sup> anywhere will add this yaml-metadata header anywhere:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="code-header">
+        <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre>---
+date: 2024-12-05
+author: mathis
+tags:
+category:
+title:
+---
+</pre></td></tr></tbody></table></code></div></div>
+
+<p>I have my jekyll setup in a way that I have one developing folder <code class="language-plaintext highlighter-rouge">mathis-lol</code> which contains all my files and which if called with <code class="language-plaintext highlighter-rouge">jekyll build</code> builds into a folder called <code class="language-plaintext highlighter-rouge">mathis-lol-push</code> – which by the way was a poor naming decision. <code class="language-plaintext highlighter-rouge">push-mathis-lol</code> would have been smarter as the Terminal could’ve better auto-complete the folder names.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="code-header">
+        <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span>
+      <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>.
+├── mathis-lol
+├── mathis-lol-push
+</pre></td></tr></tbody></table></code></div></div>
+
+<p>This folder setup is important since you may want to maintain one git-setup for your development files (in my case <code class="language-plaintext highlighter-rouge">mathis-lol</code>) while your public files will sit in its own git-repository.</p>
+
+<h3 id="workflow-schematic"><span class="me-2">Workflow-Schematic</span><a href="#workflow-schematic" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <ul>
   <li>Open iA writer
@@ -848,7 +912,7 @@
   <li>Open Terminal
     <ul>
       <li><code class="language-plaintext highlighter-rouge">cd into development</code></li>
-      <li>the jekyll deploys in ../mathis-lol-push
+      <li>jekyll deploys in ../mathis-lol-push
         <ul>
           <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code></li>
         </ul>
@@ -858,7 +922,7 @@
           <li><code class="language-plaintext highlighter-rouge">cd ../mathis-lol-push</code></li>
           <li><code class="language-plaintext highlighter-rouge">git add .</code></li>
           <li><code class="language-plaintext highlighter-rouge">git commit -m "message"</code></li>
-          <li><code class="language-plaintext highlighter-rouge">git push origin main</code> // ‘git push origin main –force’ (might help with large picture upload)</li>
+          <li><code class="language-plaintext highlighter-rouge">git push</code> // ‘git push origin main –force’ (might help with large picture upload)</li>
           <li>then render deploys repository “mathis-lol-push”</li>
         </ul>
       </li>
@@ -2406,16 +2470,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
 1491
 1492
 1493
-1494
-1495
-1496
-1497
-1498
-1499
-1500
-1501
-1502
-1503
 </pre></td><td class="rouge-code"><pre>          &lt;!-- panel --&gt;
           &lt;aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 mb-5 text-muted"&gt;
             &lt;div class="access"&gt;
@@ -3361,11 +3415,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
     
-  
-    
-    
-    
-    
       
         
         
@@ -3713,11 +3762,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
       
-    
-  
-    
-    
-    
     
   
     
@@ -3982,33 +4026,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
 55
 56
 57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
 </pre></td><td class="rouge-code"><pre>&lt;!-- panel --&gt;
 &lt;aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 mb-5 text-muted"&gt;
 &lt;div class="access"&gt;
@@ -4066,38 +4083,16 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
 
 
 
-   &lt;div class="post-tags"&gt;
-   &lt;i class="fa fa-tags fa-fw me-1"&gt;&lt;/i&gt;
-   
-    &lt;a
-       href="/tags/jekyll/"
-       class="post-tag no-text-decoration"
-    &gt;jekyll&lt;/a&gt;
-
-    &lt;a
-       href="/tags/github/"
-       class="post-tag no-text-decoration"
-    &gt;github&lt;/a&gt;
-
-    &lt;a
-       href="/tags/render/"
-       class="post-tag no-text-decoration"
-    &gt;render&lt;/a&gt;
-
-  &lt;/div&gt;
-
-``
-
-
-### Added GoatCounter Analytics
-
-In `_layouts/default.html` before `&lt;/body&gt;` added:
-
 </pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="added-goatcounter-analytics"><span class="me-2">Added GoatCounter Analytics</span><a href="#added-goatcounter-analytics" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>In <code class="language-plaintext highlighter-rouge">_layouts/default.html</code> before <code class="language-plaintext highlighter-rouge">&lt;/body&gt;</code> added:</p>
+
 <div class="language-plaintext highlighter-rouge"><div class="code-header">
         <span data-label-text="Plaintext"><i class="fas fa-code fa-fw small"></i></span>
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-</pre></td><td class="rouge-code"><pre>&lt;script data-goatcounter="https://mikrophaenomene.goatcounter.com/count" async src="//gc.zgo.at/count.js"&gt;&lt;/script&gt; ```
+</pre></td><td class="rouge-code"><pre>    &lt;script data-goatcounter="https://mikrophaenomene.goatcounter.com/count" async src="//gc.zgo.at/count.js"&gt;&lt;/script&gt;
 </pre></td></tr></tbody></table></code></div></div>
 
 <p>However: uBlock origin blocks GoatCounter which is fine for me. Also localhost serves of jekyll call at GoatCounter so test environment may mess up the count but since uBlock blocks it it should be fine.</p>
@@ -4286,7 +4281,9 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
   <li>How to <a href="https://mademistakes.com/mastering-jekyll/how-to-link/">link</a></li>
 </ul>
 
-<h2 id="image-handling"><span class="me-2">image handling</span><a href="#image-handling" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<h2 id="stuff-to-figure-out"><span class="me-2">Stuff to figure out</span><a href="#stuff-to-figure-out" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<h3 id="image-handling"><span class="me-2">image handling</span><a href="#image-handling" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <ul>
   <li>Typora imputs into assets folder</li>
@@ -4294,7 +4291,7 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
   <li>attibute image path as <code class="language-plaintext highlighter-rouge">/assets/image-path.extension</code></li>
 </ul>
 
-<h2 id="add-tag-archive"><span class="me-2">add tag-archive</span><a href="#add-tag-archive" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<h3 id="add-tag-archive"><span class="me-2">add tag-archive</span><a href="#add-tag-archive" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>https://brettterpstra.com/projects/jtag/</p>
 
@@ -4303,8 +4300,15 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
   <li>change <code class="language-plaintext highlighter-rouge">config.yml</code> to point to <code class="language-plaintext highlighter-rouge">https://raw.githubusercontent.com/nullnein/site-deploy/main/data/tags.json</code></li>
 </ul>
 
-<h2 id="figure-out"><span class="me-2">Figure out</span><a href="#figure-out" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+<h2 id="footnotes"><span class="me-2">Footnotes</span><a href="#footnotes" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:on-pull-request" role="doc-endnote">
+      <p>I’ve created an espanso-package, its pending approval. <a href="https://github.com/nullnein/espanso-hub/tree/main/packages/jekyll-yaml/0.1.0">You can download it here</a>. <a href="#fnref:on-pull-request" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </div>
 
@@ -4319,26 +4323,6 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
     
 
     <!-- tags -->
-    
-      <div class="post-tags">
-        <i class="fa fa-tags fa-fw me-1"></i>
-        
-          <a
-            href="/tags/jekyll/"
-            class="post-tag no-text-decoration"
-          >jekyll</a>
-        
-          <a
-            href="/tags/github/"
-            class="post-tag no-text-decoration"
-          >github</a>
-        
-          <a
-            href="/tags/render/"
-            class="post-tag no-text-decoration"
-          >render</a>
-        
-      </div>
     
 
     <div
@@ -4427,26 +4411,6 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
 
               
               
-                 <div class="post-tags">
-                 <i class="fa fa-tags fa-fw me-1"></i>
-                 
-                  <a
-                     href="/tags/jekyll/"
-                     class="post-tag no-text-decoration"
-                  >jekyll</a>
-              
-                  <a
-                     href="/tags/github/"
-                     class="post-tag no-text-decoration"
-                  >github</a>
-              
-                  <a
-                     href="/tags/render/"
-                     class="post-tag no-text-decoration"
-                  >render</a>
-              
-      </div>
-    
 
             </div>
 
@@ -4504,17 +4468,6 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
 
   
     
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 
 
@@ -4524,53 +4477,6 @@ In `_layouts/default.html` before `&lt;/body&gt;` added:
 
 
 
-
-
-  <aside id="related-posts" aria-labelledby="related-label">
-    <h3 class="mb-4" id="related-label">Further Reading</h3>
-    <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
-      
-        <article class="col">
-          <a href="/posts/stuff/" class="post-preview card h-100">
-            <div class="card-body">
-              <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
-
-
-
-
-<time
-  
-  data-ts="1645311600"
-  data-df="ll"
-  
->
-  Feb 20, 2022
-</time>
-
-              <h4 class="pt-0 my-2">2022-02-01 Stuff</h4>
-              <div class="text-muted">
-                <p>
-                  
-
-
-
-
-
-                  yaml tags auto-complete
-
-Brett Terpestra has a cli to auto-complete yaml frontmatter but I’m not getting that to work. But Sublime Text can auto-complete text from files within a directory. So I no...
-                </p>
-              </div>
-            </div>
-          </a>
-        </article>
-      
-    </nav>
-  </aside>
-  <!-- #related-posts -->
 
 
             
@@ -5504,11 +5410,6 @@ Brett Terpestra has a cli to auto-complete yaml frontmatter but I’m not gettin
     
     
     
-  
-    
-    
-    
-    
       
         
         
@@ -5856,11 +5757,6 @@ Brett Terpestra has a cli to auto-complete yaml frontmatter but I’m not gettin
     
     
       
-    
-  
-    
-    
-    
     
   
     
