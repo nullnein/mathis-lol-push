@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2024-11-13T23:30:13+01:00</updated>
+  <updated>2024-12-05T10:55:43+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -20,11 +20,47 @@
 
   
   <entry>
+    <title>DW -- VW workers go on strike</title>
+    <link href="/posts/vw-workers-strike/" rel="alternate" type="text/html" title="DW -- VW workers go on strike" />
+    <published>2024-12-02T00:00:00+01:00</published>
+  
+    <updated>2024-12-02T00:00:00+01:00</updated>
+  
+    <id>/posts/vw-workers-strike/</id>
+    <content src="/posts/vw-workers-strike/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      It seemed like clockwork. Strike-organizers for VW in Hannover Stöcken told me, at 9:30 am the break starts, people will gather at 9:45 when the strike officially starts and »our demonstration will start walking towards the market square at 10:00 am«.
+
+Nearly 5,000 workers walked off the job in Hannover – encompassing nearly the whole morning shift there, while the IG Metall union said, 66,000 ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>DW -- Why Germany's debt aversion split the government</title>
     <link href="/posts/germany-debt-aversion/" rel="alternate" type="text/html" title="DW -- Why Germany&amp;apos;s debt aversion split the government" />
-    <published>2024-10-10T00:00:00+02:00</published>
+    <published>2024-11-07T00:00:00+01:00</published>
   
-    <updated>2024-10-10T00:00:00+02:00</updated>
+    <updated>2024-11-07T00:00:00+01:00</updated>
   
     <id>/posts/germany-debt-aversion/</id>
     <content src="/posts/germany-debt-aversion/" />
@@ -60,9 +96,9 @@ The piece got more than 370000 views on Tiktok and about 100000 views on Instagr
   <entry>
     <title>DW -- Germany's economic engine is running slow</title>
     <link href="/posts/recession-2024/" rel="alternate" type="text/html" title="DW -- Germany&amp;apos;s economic engine is running slow" />
-    <published>2024-10-10T00:00:00+02:00</published>
+    <published>2024-10-09T00:00:00+02:00</published>
   
-    <updated>2024-10-10T00:00:00+02:00</updated>
+    <updated>2024-10-09T00:00:00+02:00</updated>
   
     <id>/posts/recession-2024/</id>
     <content src="/posts/recession-2024/" />
@@ -168,45 +204,6 @@ This week, Lyon hosted the 47th WorldSkills – a competition of workers aged 21
 Here is a German version.
 
 https://youtu.be/hAAzC5CtzRA?feature=shared
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- Shoplifting on the rise in Germany</title>
-    <link href="/posts/shoplifting/" rel="alternate" type="text/html" title="DW -- Shoplifting on the rise in Germany" />
-    <published>2024-07-16T00:00:00+02:00</published>
-  
-    <updated>2024-07-16T00:00:00+02:00</updated>
-  
-    <id>/posts/shoplifting/</id>
-    <content src="/posts/shoplifting/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Some stories are easy but telling them is hard. Like shoplifting – numbers are up, experts and academic literature points to numbers rising usually when inflation is up. But how to tell that story visually? It took me four full business days to find a shopowner willing to talk on camera.
-
-        View this post on Instagram            A post shared by DW News (@dwnews)
-
-
 
     </summary>
   
