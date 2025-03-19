@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2024-12-05T12:09:23+01:00</updated>
+  <updated>2025-03-19T15:40:00+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -13,10 +13,134 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2024 Mathis Richtmann </rights>
+  <rights> © 2025 Mathis Richtmann </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>DW - How hackers capture your solar panels and cause grid havoc</title>
+    <link href="/posts/solar-hacking/" rel="alternate" type="text/html" title="DW - How hackers capture your solar panels and cause grid havoc" />
+    <published>2025-02-27T00:00:00+01:00</published>
+  
+    <updated>2025-02-27T00:00:00+01:00</updated>
+  
+    <id>/posts/solar-hacking/</id>
+    <content src="/posts/solar-hacking/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      For this 25 Minute documentary, I met hackers across Europe who say they were able to tap into solar power generators remotely. The amounts of power they say they had access to is so large, that it could threaten the balance of Europe’s power grid.
+
+In a time of hybrid warfare, the political pressure to ramp up security is on…
+
+link to the story
+
+https://www.youtube.com/watch?v=1xgIpV_XtvQ
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW - Visualizing Germany's investment gap</title>
+    <link href="/posts/Germany-investment-gap/" rel="alternate" type="text/html" title="DW - Visualizing Germany&amp;apos;s investment gap" />
+    <published>2025-01-13T00:00:00+01:00</published>
+  
+    <updated>2025-01-13T00:00:00+01:00</updated>
+  
+    <id>/posts/Germany-investment-gap/</id>
+    <content src="/posts/Germany-investment-gap/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This piece would be forshadowing to the massive spending package agreed to by the CDU/SPD/Greens in March 2025. But in early January, in preparation for our election coverage, I tried to visualize how much money would be needed to close Germany’s investment gap.
+
+It’s a lot and I struggled to make cardboards that were large enough and still fit into the studio.
+
+
+Making to scale cardboards is f...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Espanso, Sublime Text, iA Writer - How I write Jekyll posts</title>
+    <link href="/posts/how-i-write-jekyll/" rel="alternate" type="text/html" title="Espanso, Sublime Text, iA Writer - How I write Jekyll posts" />
+    <published>2024-12-06T00:00:00+01:00</published>
+  
+    <updated>2024-12-06T00:00:00+01:00</updated>
+  
+    <id>/posts/how-i-write-jekyll/</id>
+    <content src="/posts/how-i-write-jekyll/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="TechnicalStuff" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Blogging should be easy. But they’ve put a price tag on easy so here’s how I do it.
+
+Skip the prose and…
+
+  jump to espanso handling jekyll yaml
+  jump to espanso handling jekyll paste images
+  jump to sublime text handling jekyll tags
+  jump to iA Writer for nothing
+
+
+I run my blog for mostly for free which comes with some inconveniences but also some nice things. I own all the files that I’ve...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -87,124 +211,6 @@ Nearly 5,000 workers walked off the job in Hannover – encompassing nearly the 
 The piece got more than 370000 views on Tiktok and about 100000 views on Instagram and was a one-day turnaround.
 
         View this post on Instagram            A post shared by DW News (...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- Germany's economic engine is running slow</title>
-    <link href="/posts/recession-2024/" rel="alternate" type="text/html" title="DW -- Germany&amp;apos;s economic engine is running slow" />
-    <published>2024-10-09T00:00:00+02:00</published>
-  
-    <updated>2024-10-09T00:00:00+02:00</updated>
-  
-    <id>/posts/recession-2024/</id>
-    <content src="/posts/recession-2024/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      How to report about Germany’s recession – again? Let’s play Für Elise and have a motor humm slowly.
-
-Some thoughts while reporting: With personal savings rates up and stimying growth, a fiscal stimulus would mostly have to be about psychologically freeing consumers up. Which means the stimulus would have to be gigantic.
-
-        View this post on Instagram            A post shared by DW News (@...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- Fed rate cut around the world</title>
-    <link href="/posts/fed-rates-2024/" rel="alternate" type="text/html" title="DW -- Fed rate cut around the world" />
-    <published>2024-09-19T00:00:00+02:00</published>
-  
-    <updated>2024-09-19T00:00:00+02:00</updated>
-  
-    <id>/posts/fed-rates-2024/</id>
-    <content src="/posts/fed-rates-2024/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      With the attempt to unpack that exchange rates and interest rates globally move if the FED changes rates.
-
-        View this post on Instagram            A post shared by DW News (@dwnews)
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- Reporting WorldSkills</title>
-    <link href="/posts/worldskills-2024/" rel="alternate" type="text/html" title="DW -- Reporting WorldSkills" />
-    <published>2024-09-14T00:00:00+02:00</published>
-  
-    <updated>2024-09-14T00:00:00+02:00</updated>
-  
-    <id>/posts/worldskills-2024/</id>
-    <content src="/posts/worldskills-2024/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      When the world meets to show its industrial might, it meets for a competition.
-
-This week, Lyon hosted the 47th WorldSkills – a competition of workers aged 21 and younger. 70 countries fight to win titles in bakery, plumbing and heating, and 3D game design among a full set of 59 skills.
-
-Here is a German version.
-
-https://youtu.be/hAAzC5CtzRA?feature=shared
-
     </summary>
   
 
