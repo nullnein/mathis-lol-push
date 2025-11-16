@@ -4,7 +4,7 @@
   <id>/</id>
   <title>mathis</title>
   <subtitle>mathis is a journalist based in Berlin. Most of his work is on economics and how it relates to power. This website is a portfolio of work since 2015.</subtitle>
-  <updated>2025-05-18T16:14:21+02:00</updated>
+  <updated>2025-11-16T03:56:46+01:00</updated>
   <author>
     <name>Mathis Richtmann</name>
     <uri>/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Geoeconomics on TikTok season 1</title>
+    <link href="/posts/dominomics/" rel="alternate" type="text/html" title="Geoeconomics on TikTok season 1" />
+    <published>2025-11-14T00:00:00+01:00</published>
+  
+    <updated>2025-11-14T00:00:00+01:00</updated>
+  
+    <id>/posts/dominomics/</id>
+    <content src="/posts/dominomics/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I think it is power that excites people about economics stories.
+
+For this series, a team at DW put together visual first, 3 Minute TikTok videos; stories of “geoeconomcis”.
+
+The term is a catchphrase. I think of it as a refocussing on what Susan Strange did. The journalist brought a practicioner’s perspective to studying International Political Economy.
+
+The initial season ran for five episode...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -173,42 +213,6 @@ Skip the prose and…
 
 
 I run my blog for mostly for free which comes with some inconveniences but also some nice things. I own all the files that I’ve...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW -- VW workers go on strike</title>
-    <link href="/posts/vw-workers-strike/" rel="alternate" type="text/html" title="DW -- VW workers go on strike" />
-    <published>2024-12-02T00:00:00+01:00</published>
-  
-    <updated>2024-12-02T00:00:00+01:00</updated>
-  
-    <id>/posts/vw-workers-strike/</id>
-    <content src="/posts/vw-workers-strike/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      It seemed like clockwork. Strike-organizers for VW in Hannover Stöcken told me, at 9:30 am the break starts, people will gather at 9:45 when the strike officially starts and »our demonstration will start walking towards the market square at 10:00 am«.
-
-Nearly 5,000 workers walked off the job in Hannover – encompassing nearly the whole morning shift there, while the IG Metall union said, 66,000 ...
     </summary>
   
 
